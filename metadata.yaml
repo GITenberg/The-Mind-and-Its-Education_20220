@@ -1,0 +1,38 @@
+_repo: The-Mind-and-Its-Education_20220
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Betts, George Herbert
+    birthdate: 1868
+    deathdate: 1934
+    gutenberg_agent_id: '6298'
+    url: http://www.gutenberg.org/2009/agents/6298
+description: '"The book aims to provide readers with a general introduction to psychology
+  and its importance in educating the developing person. The author''s aim is to elucidate
+  the fundamental truths of psychology, and he describes three ways in which he tries
+  to accomplish this goal. First, the attempt has been made to present only fundamental
+  truths; Second, the aim has been to state these fundamental truths simply, that
+  the student may clearly understand them; Third, it is recognized that if the student
+  is really to make use of the psychology he learns, he must have practical and useful
+  truths presented to him, and must be led to a comprehension of these truths through
+  their relation to his own actual experience. The various exercises suggested at
+  the ends of the chapters will be found useful not because they outline the respective
+  chapters in any systematic way, but because they will encourage introspection."
+  (PsycINFO Database Record (c) 2010 APA, all rights reserved).'
+gutenberg_bookshelf: Education
+gutenberg_issued: '2006-12-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20220'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Educational psychology'
+- !lcc 'LB'
+title: The Mind and Its Education
+url: http://www.gutenberg.org/ebooks/20220
